@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10121" started-at="2021-08-29T10:14:53Z" finished-at="2021-08-29T10:15:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10121" started-at="2021-08-29T10:14:53Z" finished-at="2021-08-29T10:15:03Z">
+      <class name="WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage">
+        <test-method status="PASS" signature="init()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="init" is-config="true" duration-ms="2822" started-at="2021-08-29T10:14:53Z" finished-at="2021-08-29T10:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testFacebookInvalidLogin()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="testFacebookInvalidLogin" duration-ms="7283" started-at="2021-08-29T10:14:56Z" finished-at="2021-08-29T10:15:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebookInvalidLogin -->
+      </class> <!-- WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
