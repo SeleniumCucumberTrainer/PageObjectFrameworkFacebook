@@ -12,9 +12,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
 
-import WebApp.FacebookAutomation.Utility.Xls_Reader;
+
+
+
 
 public class WebBaseTest {
 	
@@ -22,7 +23,6 @@ public class WebBaseTest {
 	
 	public WebDriver driver;
 	
-	public Xls_Reader excel;
 	
 	public Logger log;
 	

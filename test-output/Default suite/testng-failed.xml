@@ -6,4 +6,14 @@
       <class name="WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage">
+        <methods>
+          <include name="init"/>
+          <include name="testFacebookInvalidLogin"/>
+        </methods>
+      </class> <!-- WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
