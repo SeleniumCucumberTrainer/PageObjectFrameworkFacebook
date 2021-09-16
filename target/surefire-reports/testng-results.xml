@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11560" started-at="2021-09-16T08:16:17Z" finished-at="2021-09-16T08:16:29Z">
+  <suite name="Suite" duration-ms="14031" started-at="2021-09-16T08:26:40Z" finished-at="2021-09-16T08:26:54Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11560" started-at="2021-09-16T08:16:17Z" finished-at="2021-09-16T08:16:29Z">
+    <test name="Test" duration-ms="14031" started-at="2021-09-16T08:26:40Z" finished-at="2021-09-16T08:26:54Z">
       <class name="WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage">
-        <test-method status="PASS" signature="init()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="init" is-config="true" duration-ms="2807" started-at="2021-09-16T08:16:17Z" finished-at="2021-09-16T08:16:20Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="init" is-config="true" duration-ms="2911" started-at="2021-09-16T08:26:40Z" finished-at="2021-09-16T08:26:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testFacebookInvalidLogin()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="testFacebookInvalidLogin" duration-ms="8739" started-at="2021-09-16T08:16:20Z" finished-at="2021-09-16T08:16:29Z">
+        <test-method status="PASS" signature="testFacebookInvalidLogin()[pri:0, instance:WebApp.FacebookAutomation.FBLoginTestCases.TestLoginPage@2f7c7260]" name="testFacebookInvalidLogin" duration-ms="11108" started-at="2021-09-16T08:26:43Z" finished-at="2021-09-16T08:26:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFacebookInvalidLogin -->
